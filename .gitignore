@@ -1,8 +1,11 @@
 #custom
 
 *.yaml
+*.yml
 test.py
 env
+
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
